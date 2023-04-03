@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 ### configuration
-export PROJECT_ID=grp-dev-kenzo-prj-clienteling
-export CLUSTER_NAME=clienteling-kenzo-dev
-export CLUSTER_LOCATION=europe-west4-a
-export BASTION_NAME=bastion-proxy
-export BASTION_LOCATION=europe-west4-a
+export PROJECT_ID=ken-em-prj-apps-cltg-01-dev
+export CLUSTER_NAME=ken-em-kub-cltg-01-dev
+export CLUSTER_LOCATION=europe-west1-b
+export BASTION_NAME=kenembas01d
+export BASTION_LOCATION=europe-west1-b
 # This port will be opened on your laptop and it should be uniq if you want to connect to several cluster(s)
 export STATIC_PORT=8888
 # We are defining a more explicit context name

@@ -1,0 +1,26 @@
+{"product_id":"3612230463967","price":"27000","price_no_discount":"27000","discount_percent":"0","has_discount":"0","currency":"GBP","with_tax":"1","pricelist":"UKNGBP","periodCode":"SS2301"}
+{
+    "store": "568563",
+    "pricelist": "UKNGBP",
+    "periodCode": "SS2301",
+    "date_from": "2022-09-01T00:00:00",
+    "date_to": "2090-12-31T00:00:00"
+},
+
+{"product_id":"3612230463967","price":"23500","price_no_discount":"23500","discount_percent":"0","has_discount":"0","currency":"GBP","with_tax":"1","pricelist":"UKNGBP","periodCode":"SS2303"}
+{
+    "store": "568563",
+    "pricelist": "UKNGBP",
+    "periodCode": "SS2303",
+    "date_from": "2022-10-18T00:00:00",
+    "date_to": "2090-12-31T00:00:00"
+}
+
+{"product_id":"3612230463967","price":"23500","price_no_discount":"23500","discount_percent":"0","has_discount":"0","currency":"GBP","with_tax":"1","pricelist":"UKNGBP","periodCode":"FW2301"}
+{
+    "store": "568563",
+    "pricelist": "UKNGBP",
+    "periodCode": "FW2301",
+    "date_from": "2022-01-01T00:00:00",
+    "date_to": "2090-12-31T00:00:00"
+}
